@@ -32,6 +32,17 @@ img {
   max-width: 60%;
 }
 
+h1 {
+  font-family: 'Orbitron', sans-serif;
+}
+
+/* .dropdown-content {
+  display: none;
+  
+}
+
+.show {display:block;} */
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
